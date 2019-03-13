@@ -1,9 +1,9 @@
-title: Website Template
+title: Promotional Penguibs
 description: > # this means to ignore newlines until "baseurl:"
-  My Github Website
+  We dont have a slogon
 base-url: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-repository: tumblenet/website-template
+repository: promotion-penguins/promotion-penguins.github.io
 
 #favicon: favicon.gif
 
@@ -22,7 +22,6 @@ plugins:
  - jekyll-avatar
  - jemoji
  - jekyll-mentions
- - jekyll-include-cache
 
 
 # Build settings
