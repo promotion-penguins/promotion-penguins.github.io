@@ -20,12 +20,10 @@ body {
   display: -webkit-flex;
   flex-wrap: wrap;
   flex-direction: row;
-  justify-content: center;
   align-items: center;
   align-content: center;
 }
 .item {
-}
 }
 
 .main-row > * {
